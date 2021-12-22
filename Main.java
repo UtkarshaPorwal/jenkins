@@ -1,5 +1,0 @@
-class Main{
-public static void main[args]{
-System.out.println("hello");
-}
-}
